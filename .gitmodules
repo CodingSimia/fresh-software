@@ -1,0 +1,3 @@
+[submodule "shiftleft/themes/ananke"]
+	path = shiftleft/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
