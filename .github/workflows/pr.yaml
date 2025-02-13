@@ -2,8 +2,7 @@
 name: Run on PR Creation
 
 on:
-  schedule:
-    - cron: '*/1 * * * *'
+  workflow_dispatch:
 
 permissions:
   contents: read
