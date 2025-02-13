@@ -1,4 +1,4 @@
-FROM  ubuntu:20.10
+FROM  ubuntu:14.04
 
 EXPOSE 80
 
